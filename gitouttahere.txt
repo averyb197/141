@@ -1,0 +1,1 @@
+This has probably been the most useful assignment in my opinion although im not sure why we had to make a shell script for something that only needed a single command
